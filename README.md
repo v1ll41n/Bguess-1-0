@@ -20,4 +20,5 @@ Example : CSAW-CTF-2016-Quals -> Forensics -> Watchword <br/>
 Writeup : https://github.com/isislab/CSAW-CTF-2016-Quals/tree/master/Forensics/Watchword  <br/>
 by using Bguess  <br/>
 python3 bguess.py 'W^7?+dsk&3VRB_4W^-?2X=QYIEFgDfAYpQ4AZBT9VQg%9AZBu9Wh@|fWgua4Wgup0ZeeU}c_3kTVQXa}eE'  <br/>
-output: b'flag{We are fsociety, we are finally free, we are finally awake!}'
+output: b'flag{We are fsociety, we are finally free, we are finally awake!}' <br />
+<img src=Bguess.png />
